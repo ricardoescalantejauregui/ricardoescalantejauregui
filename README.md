@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/ricardoescalantejauregui">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=06B6D4&center=true&vCenter=true&width=640&lines=Building+LLM+agents+that+do+real+work;RAG+%C2%B7+LangGraph+%C2%B7+MCP+%C2%B7+FastAPI;Data+pipelines%2C+SQL+%26+AWS;7%2B+years+shipping+backend+for+fintech+%26+startups" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=06B6D4&center=true&vCenter=true&width=640&lines=Building+LLM+agents+that+do+real+work;RAG+%C2%B7+LangGraph+%C2%B7+MCP+%C2%B7+FastAPI;Data+pipelines%2C+SQL+%26+AWS;Backend+for+fintech+%26+AI+startups" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,11 +26,7 @@ class Ricardo:
     role       = "Senior Python & AI Engineer"
     location   = "Guadalajara, Mexico 🇲🇽"
     education  = "B.Sc. Computer Science — ITESO"
-    experience = {
-        "Citi LATAM (via Wipro / Virtusa)": "Backend & data — 2018–2023",
-        "Hivenue (AI startup, Canada)":     "AI Engineer: RAG, prompting, fine-tuning",
-        "NativeLabs":                       "Software Engineer",
-    }
+    worked_on  = ["Banking platforms (Citi LATAM)", "AI startup (Canada)", "Product engineering"]
     focus      = ["LLM agents", "RAG", "Data pipelines", "Backend APIs", "Cloud (AWS)"]
 
     def say_hi(self):
