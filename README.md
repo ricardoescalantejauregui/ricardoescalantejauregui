@@ -111,12 +111,11 @@ class Ricardo:
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ricardoescalantejauregui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoescalantejauregui&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="95%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardoescalantejauregui&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="165" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="165" />
 </p>
 
 ---
