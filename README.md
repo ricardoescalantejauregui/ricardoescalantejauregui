@@ -1,19 +1,18 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=200&section=header&text=Ricardo%20Escalante&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Senior%20Python%20%26%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="Ricardo Escalante banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=200&section=header&text=Ricardo&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" />
 </p>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/ricardoescalantejauregui">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=06B6D4&center=true&vCenter=true&width=640&lines=Building+LLM+agents+that+do+real+work;RAG+%C2%B7+LangGraph+%C2%B7+MCP+%C2%B7+FastAPI;Data+pipelines%2C+SQL+%26+AWS;Backend+for+fintech+%26+AI+startups" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=06B6D4&center=true&vCenter=true&width=640&lines=Building+LLM+agents+that+do+real+work;RAG+%C2%B7+LangGraph+%C2%B7+MCP+%C2%B7+FastAPI;Data+pipelines%2C+SQL+%26+AWS;Full+stack+%C2%B7+APIs+%C2%B7+Cloud" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍%20Guadalajara,%20MX-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/📍%20Mexico-0f172a?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20to%20work-Remote-06b6d4?style=flat-square" />
-  <img src="https://img.shields.io/badge/English-B2%2FC1-1e3a8a?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=ricardoescalantejauregui&style=flat-square&color=1e3a8a&label=profile+views" />
 </p>
 
@@ -22,12 +21,10 @@
 ### 👋 About me
 
 ```python
-class Ricardo:
-    role       = "Senior Python & AI Engineer"
-    location   = "Guadalajara, Mexico 🇲🇽"
-    education  = "B.Sc. Computer Science — ITESO"
-    worked_on  = ["Banking platforms (Citi LATAM)", "AI startup (Canada)", "Product engineering"]
-    focus      = ["LLM agents", "RAG", "Data pipelines", "Backend APIs", "Cloud (AWS)"]
+class Dev:
+    role     = "Full Stack & AI Engineer"
+    based_in = "Mexico 🇲🇽"
+    focus    = ["LLM agents", "RAG", "Backend APIs", "Web apps (React)", "Data pipelines", "Cloud"]
 
     def say_hi(self):
         return "Let's build something that actually ships 🚀"
@@ -38,7 +35,11 @@ class Ricardo:
 ### 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,postgres,redis,docker,aws,linux,git,github,githubactions&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,php&perline=12" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,django,postgres,redis&perline=12" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,githubactions&perline=12" />
 </p>
 
 <p align="center">
@@ -115,13 +116,6 @@ class Ricardo:
 </p>
 
 ---
-
-### 📫 Let's connect
-
-<p align="center">
-  <a href="mailto:ricardo.jauregui@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=110&section=footer" />
