@@ -1,122 +1,149 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=200&section=header&text=Ricardo&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" />
+  <img src="./assets/banner.svg" alt="Ricardo — Full Stack & AI Engineer" width="100%" />
 </p>
 
-<!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/ricardoescalantejauregui">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=06B6D4&center=true&vCenter=true&width=640&lines=Building+LLM+agents+that+do+real+work;RAG+%C2%B7+LangGraph+%C2%B7+MCP+%C2%B7+FastAPI;Data+pipelines%2C+SQL+%26+AWS;Full+stack+%C2%B7+APIs+%C2%B7+Cloud" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=FF2A6D&center=true&vCenter=true&width=720&height=40&lines=PRESS+START+TO+CONTINUE;JS+%C2%B7+TS+%C2%B7+JAVA+%C2%B7+C%23+%C2%B7+PHP+%C2%B7+PYTHON;FRONTEND+%C2%B7+BACKEND+%C2%B7+CLOUD;BONUS+STAGE%3A+AI+AGENTS" alt="Press start" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍%20Mexico-0f172a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to%20work-Remote-06b6d4?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=ricardoescalantejauregui&style=flat-square&color=1e3a8a&label=profile+views" />
+  <img src="https://img.shields.io/badge/📍_REGION-MEXICO-ff2a6d?style=for-the-badge&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-05d9e8?style=for-the-badge&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/MODE-REMOTE-f9f002?style=for-the-badge&labelColor=0d0221" />
+  <img src="https://komarev.com/ghpvc/?username=ricardoescalantejauregui&style=for-the-badge&color=5b1a6e&label=PLAYERS" />
 </p>
 
----
+<img src="./assets/divider.svg" width="100%" />
 
-### 👋 About me
+## 🕹️ PLAYER SELECT
 
-```python
-class Dev:
-    role     = "Full Stack & AI Engineer"
-    based_in = "Mexico 🇲🇽"
-    focus    = ["LLM agents", "RAG", "Backend APIs", "Web apps (React)", "Data pipelines", "Cloud"]
+```text
+RETRO-BIOS v1.985                         (C) MEXICO
+-----------------------------------------------------
+MEMORY TEST ................ 640K OK
+FLOPPY DRIVE A: ............ READY
+LOADING PLAYER_1 ........... ██████████ 100%
 
-    def say_hi(self):
-        return "Let's build something that actually ships 🚀"
+CLASS ...................... FULL STACK ENGINEER
+REGION ..................... MEXICO
+SPECIAL MOVES .............. WEB APPS · APIs · DATA · CLOUD
+BONUS ABILITY .............. LLM AGENTS · RAG
+
+TIME CIRCUITS .............. ON   (TARGET SPEED: 88 MPH)
+NEON GRID .................. ONLINE
+REPLICANTS ................. 0 DETECTED
+HOVERBOARD ................. BACKORDERED
+
+> PRESS START_
 ```
 
----
+<img src="./assets/divider.svg" width="100%" />
 
-### 🛠️ Tech stack
+## ⚔️ INVENTORY
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,php&perline=12" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,django,postgres,redis&perline=12" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,githubactions&perline=12" />
+**🎮 Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cs,php,python&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-0f172a?style=for-the-badge&logo=langchain&logoColor=06b6d4" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/FAISS%20%2F%20pgvector-1e3a8a?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+**🧩 Frameworks & runtimes**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,dotnet,django,flask,fastapi,html,css&theme=dark" />
 </p>
 
----
+**💾 Data**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" />
+</p>
 
-### 🚀 Featured projects
+**🛰️ Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,githubactions&theme=dark" />
+</p>
+
+**⚡ Power-ups (AI)**
+<p>
+  <img src="https://img.shields.io/badge/LangChain-0d0221?style=flat-square&logo=langchain&logoColor=05d9e8" />
+  <img src="https://img.shields.io/badge/LangGraph-0d0221?style=flat-square&logo=langchain&logoColor=ff2a6d" />
+  <img src="https://img.shields.io/badge/OpenAI-0d0221?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-0d0221?style=flat-square&logo=anthropic&logoColor=f9f002" />
+  <img src="https://img.shields.io/badge/Hugging_Face-0d0221?style=flat-square&logo=huggingface&logoColor=f9f002" />
+  <img src="https://img.shields.io/badge/FAISS_·_pgvector-0d0221?style=flat-square&logoColor=05d9e8" />
+</p>
+
+<img src="./assets/divider.svg" width="100%" />
+
+## 🏆 LEVELS COMPLETED
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>📄 <a href="https://github.com/ricardoescalantejauregui/aura-doc-pipeline">aura-doc-pipeline</a></h4>
-      Document analysis pipeline: ingests PDF/DOCX, builds semantic embeddings and serves search through a production-style API.
+      <h3>🌐 WORLD 1-1</h3>
+      <h4><a href="https://github.com/ricardoescalantejauregui/LaCaffettiera">☕ LaCaffettiera</a></h4>
+      Company website for a coffee shop: blog, services, contact and social sections with an admin panel.
       <br/><br/>
-      <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/-FAISS-1e3a8a?style=flat-square" />
-      <img src="https://img.shields.io/badge/-sentence--transformers-FFD21E?style=flat-square&logoColor=black" />
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Django-0d0221?style=flat-square&logo=django&logoColor=05d9e8" />
+      <img src="https://img.shields.io/badge/-HTML_/_CSS-0d0221?style=flat-square&logo=html5&logoColor=ff2a6d" />
+      <br/><img src="https://img.shields.io/badge/STAGE-CLEAR-05d9e8?style=flat-square&labelColor=0d0221" />
     </td>
     <td width="50%" valign="top">
-      <h4>🧙 <a href="https://github.com/ricardoescalantejauregui/AcademyMagic">GrimoireRegistry</a></h4>
+      <h3>🏰 WORLD 1-2</h3>
+      <h4><a href="https://github.com/ricardoescalantejauregui/AcademyMagic">🧙 GrimoireRegistry</a></h4>
       REST API to manage student applications and grimoire assignments for a magic academy — auth, migrations, Swagger docs and tests.
       <br/><br/>
-      <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square" />
-      <img src="https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Flask-0d0221?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-0d0221?style=flat-square&logo=postgresql&logoColor=05d9e8" />
+      <img src="https://img.shields.io/badge/-Docker-0d0221?style=flat-square&logo=docker&logoColor=05d9e8" />
+      <br/><img src="https://img.shields.io/badge/STAGE-CLEAR-05d9e8?style=flat-square&labelColor=0d0221" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>☕ <a href="https://github.com/ricardoescalantejauregui/LaCaffettiera">LaCaffettiera</a></h4>
-      Full company website for a coffee shop: blog, services, contact and social sections with a Django admin.
+      <h3>🚀 WORLD 2-1</h3>
+      <h4><a href="https://github.com/ricardoescalantejauregui/aura-doc-pipeline">📄 aura-doc-pipeline</a></h4>
+      Document analysis pipeline: ingests PDF/DOCX, builds semantic embeddings and serves search through a production-style API with metrics.
       <br/><br/>
-      <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-FastAPI-0d0221?style=flat-square&logo=fastapi&logoColor=05d9e8" />
+      <img src="https://img.shields.io/badge/-FAISS-0d0221?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Prometheus-0d0221?style=flat-square&logo=prometheus&logoColor=ff2a6d" />
+      <br/><img src="https://img.shields.io/badge/STAGE-CLEAR-05d9e8?style=flat-square&labelColor=0d0221" />
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/ricardoescalantejauregui/agentes">agentes</a></h4>
+      <h3>👾 BONUS STAGE</h3>
+      <h4><a href="https://github.com/ricardoescalantejauregui/agentes">🤖 agentes</a></h4>
       Experiments with LLM agents and tool calling.
       <br/><br/>
-      <img src="https://img.shields.io/badge/-LLM%20Agents-06b6d4?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-LLM_Agents-0d0221?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Python-0d0221?style=flat-square&logo=python&logoColor=f9f002" />
+      <br/><img src="https://img.shields.io/badge/STAGE-IN_PROGRESS-f9f002?style=flat-square&labelColor=0d0221" />
     </td>
   </tr>
 </table>
 
-<!--
-### 🔨 Currently building
-**AI receptionist for clinics** — WhatsApp agent that books appointments, answers FAQs and moves leads through a sales funnel.
-`FastAPI` · `LangGraph` · `MCP server` · `Postgres + pgvector` · `Langfuse` · `evals in CI` · `AWS`
--->
+<img src="./assets/divider.svg" width="100%" />
 
----
-
-### 📊 GitHub stats
+## 📼 HIGH SCORES
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="95%" />
+  <img src="./profile-summary-card-output/radical/0-profile-details.svg" width="95%" />
 </p>
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="165" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="165" />
+  <img src="./profile-summary-card-output/radical/3-stats.svg" height="165" />
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" height="165" />
 </p>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardoescalantejauregui/ricardoescalantejauregui/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardoescalantejauregui/ricardoescalantejauregui/output/snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ricardoescalantejauregui/ricardoescalantejauregui/output/snake-dark.svg" />
+  </picture>
+</p>
+
+<img src="./assets/divider.svg" width="100%" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=110&section=footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=600&color=05D9E8&center=true&vCenter=true&width=600&height=36&lines=GAME+OVER%3F;CONTINUE%3F+9...+8...+7...;THANKS+FOR+PLAYING!" alt="Continue?" />
 </p>
