@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="1000" height="320">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d0221"/>
+      <stop offset="0.55" stop-color="#261447"/>
+      <stop offset="1" stop-color="#5b1a6e"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f9f002"/>
+      <stop offset="0.5" stop-color="#ff8a3d"/>
+      <stop offset="1" stop-color="#ff2a6d"/>
+    </linearGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a0633"/>
+      <stop offset="1" stop-color="#0d0221"/>
+    </linearGradient>
+    <mask id="sunStripes">
+      <rect x="0" y="0" width="1000" height="320" fill="#fff"/>
+      <rect x="380" y="172" width="240" height="4" fill="#000"/>
+      <rect x="380" y="184" width="240" height="5" fill="#000"/>
+      <rect x="380" y="194" width="240" height="7" fill="#000"/>
+      <rect x="380" y="204" width="240" height="6" fill="#000"/>
+    </mask>
+    <clipPath id="floorClip"><rect x="0" y="210" width="1000" height="110"/></clipPath>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000" opacity="0.18"/>
+    </pattern>
+    <style>
+      .px { font-family: "Courier New", Courier, monospace; font-weight: 700; }
+      .blink { animation: blink 1.1s steps(1) infinite; }
+      .twinkle { animation: tw 2.4s ease-in-out infinite; }
+      .bob { animation: bob 2.2s ease-in-out infinite; }
+      .spin { transform-box: fill-box; transform-origin: center; animation: spin 1.2s linear infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      @keyframes tw { 50% { opacity: 0.2; } }
+      @keyframes bob { 50% { transform: translateY(-8px); } }
+      @keyframes spin { 0%,100% { transform: scaleX(1); } 50% { transform: scaleX(0.15); } }
+    </style>
+  </defs>
+
+  <!-- sky -->
+  <rect width="1000" height="320" fill="url(#sky)"/>
+
+  <!-- stars -->
+  <g fill="#ffffff">
+    <rect x="60" y="40" width="3" height="3" class="twinkle"/>
+    <rect x="180" y="90" width="2" height="2"/>
+    <rect x="300" y="30" width="3" height="3" class="twinkle" style="animation-delay:.6s"/>
+    <rect x="720" y="50" width="3" height="3" class="twinkle" style="animation-delay:1.2s"/>
+    <rect x="840" y="110" width="2" height="2"/>
+    <rect x="930" y="35" width="3" height="3" class="twinkle" style="animation-delay:.3s"/>
+    <rect x="640" y="130" width="2" height="2"/>
+    <rect x="110" y="150" width="2" height="2" class="twinkle" style="animation-delay:1.6s"/>
+  </g>
+
+  <!-- synthwave sun -->
+  <circle cx="500" cy="232" r="105" fill="url(#sun)" mask="url(#sunStripes)" opacity="0.95"/>
+
+  <!-- floor + grid -->
+  <rect x="0" y="210" width="1000" height="110" fill="url(#floor)"/>
+  <g clip-path="url(#floorClip)" stroke="#ff2a6d" stroke-width="2" opacity="0.85">
+    <line x1="500" y1="210" x2="-700" y2="320"/>
+    <line x1="500" y1="210" x2="-300" y2="320"/>
+    <line x1="500" y1="210" x2="0" y2="320"/>
+    <line x1="500" y1="210" x2="250" y2="320"/>
+    <line x1="500" y1="210" x2="400" y2="320"/>
+    <line x1="500" y1="210" x2="500" y2="320"/>
+    <line x1="500" y1="210" x2="600" y2="320"/>
+    <line x1="500" y1="210" x2="750" y2="320"/>
+    <line x1="500" y1="210" x2="1000" y2="320"/>
+    <line x1="500" y1="210" x2="1300" y2="320"/>
+    <line x1="500" y1="210" x2="1700" y2="320"/>
+    <g stroke="#05d9e8">
+      <line x1="0" x2="1000" y1="210" y2="210">
+        <animate attributeName="y1" values="210;322" dur="3s" repeatCount="indefinite" calcMode="spline" keySplines="0.55 0 1 1"/>
+        <animate attributeName="y2" values="210;322" dur="3s" repeatCount="indefinite" calcMode="spline" keySplines="0.55 0 1 1"/>
+      </line>
+      <line x1="0" x2="1000" y1="210" y2="210">
+        <animate attributeName="y1" values="210;322" dur="3s" begin="-0.6s" repeatCount="indefinite" calcMode="spline" keySplines="0.55 0 1 1"/>
+        <animate attributeName="y2" values="210;322" dur="3s" begin="-0.6s" repeatCount="indefinite" calcMode="spline" keySplines="0.55 0 1 1"/>
+      </line>
+      <line x1="0" x2="1000" y1="210" y2="210">
+        <animate attributeName="y1" values="210;322" dur="3s" begin="-1.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.55 0 1 1"/>
+        <animate attributeName="y2" values="210;322" dur="3s" begin="-1.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.55 0 1 1"/>
+      </line>
+      <line x1="0" x2="1000" y1="210" y2="210">
+        <animate attributeName="y1" values="210;322" dur="3s" begin="-1.8s" repeatCount="indefinite" calcMode="spline" keySplines="0.55 0 1 1"/>
+        <animate attributeName="y2" values="210;322" dur="3s" begin="-1.8s" repeatCount="indefinite" calcMode="spline" keySplines="0.55 0 1 1"/>
+      </line>
+      <line x1="0" x2="1000" y1="210" y2="210">
+        <animate attributeName="y1" values="210;322" dur="3s" begin="-2.4s" repeatCount="indefinite" calcMode="spline" keySplines="0.55 0 1 1"/>
+        <animate attributeName="y2" values="210;322" dur="3s" begin="-2.4s" repeatCount="indefinite" calcMode="spline" keySplines="0.55 0 1 1"/>
+      </line>
+    </g>
+  </g>
+  <line x1="0" y1="210" x2="1000" y2="210" stroke="#ff2a6d" stroke-width="3" filter="url(#glow)"/>
+
+  <!-- original pixel spaceship (left) -->
+  <g class="bob">
+    <g transform="translate(80 140) scale(7)" shape-rendering="crispEdges">
+      <rect x="5" y="0" width="2" height="2" fill="#05d9e8"/>
+      <rect x="4" y="2" width="4" height="2" fill="#d1f7ff"/>
+      <rect x="3" y="4" width="6" height="2" fill="#d1f7ff"/>
+      <rect x="5" y="3" width="2" height="2" fill="#ff2a6d"/>
+      <rect x="1" y="5" width="2" height="3" fill="#ff2a6d"/>
+      <rect x="9" y="5" width="2" height="3" fill="#ff2a6d"/>
+      <rect x="2" y="6" width="8" height="2" fill="#d1f7ff"/>
+      <rect x="3" y="8" width="2" height="1" fill="#f9f002" class="blink"/>
+      <rect x="7" y="8" width="2" height="1" fill="#f9f002" class="blink"/>
+    </g>
+  </g>
+
+  <!-- original spinning pixel coin (right) -->
+  <g transform="translate(860 165)">
+    <g class="spin" shape-rendering="crispEdges">
+      <rect x="6" y="0" width="24" height="6" fill="#f9f002"/>
+      <rect x="0" y="6" width="36" height="30" fill="#f9f002"/>
+      <rect x="6" y="36" width="24" height="6" fill="#f9f002"/>
+      <rect x="12" y="6" width="12" height="30" fill="#ffb800"/>
+      <rect x="15" y="12" width="6" height="18" fill="#f9f002"/>
+    </g>
+  </g>
+
+  <!-- HUD -->
+  <text x="40" y="38" class="px" font-size="18" fill="#05d9e8">1UP</text>
+  <text x="40" y="60" class="px" font-size="18" fill="#ffffff">001985</text>
+  <text x="960" y="38" class="px" font-size="18" fill="#ff2a6d" text-anchor="end">HI-SCORE</text>
+  <text x="960" y="60" class="px" font-size="18" fill="#ffffff" text-anchor="end">999999</text>
+
+  <!-- title -->
+  <text x="500" y="80" class="px" font-size="64" fill="#05d9e8" text-anchor="middle" letter-spacing="10" filter="url(#glow)">RICARDO</text>
+  <text x="500" y="112" class="px" font-size="20" fill="#f9f002" text-anchor="middle" letter-spacing="6">CODE · CREATE · PLAY</text>
+
+  <!-- insert coin -->
+  <text x="500" y="300" class="px blink" font-size="20" fill="#ffffff" text-anchor="middle" letter-spacing="6">INSERT COIN</text>
+
+  <!-- CRT scanlines -->
+  <rect width="1000" height="320" fill="url(#scan)" pointer-events="none"/>
+</svg>
