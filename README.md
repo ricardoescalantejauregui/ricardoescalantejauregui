@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Ricardo — Full Stack & AI Engineer" width="100%" />
+  <img src="./assets/banner.svg" alt="Ricardo — code, create, play" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ricardoescalantejauregui">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=FF2A6D&center=true&vCenter=true&width=720&height=40&lines=PRESS+START+TO+CONTINUE;JS+%C2%B7+TS+%C2%B7+JAVA+%C2%B7+C%23+%C2%B7+PHP+%C2%B7+PYTHON;FRONTEND+%C2%B7+BACKEND+%C2%B7+CLOUD;BONUS+STAGE%3A+AI+AGENTS" alt="Press start" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=FF2A6D&center=true&vCenter=true&width=720&height=40&lines=PRESS+START+TO+CONTINUE;I+BREAK+THINGS+TO+SEE+HOW+THEY+WORK;THEN+I+BUILD+THEM+BETTER;TEACHING+ROBOTS+NEW+TRICKS" alt="Press start" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_REGION-MEXICO-ff2a6d?style=for-the-badge&labelColor=0d0221" />
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-05d9e8?style=for-the-badge&labelColor=0d0221" />
-  <img src="https://img.shields.io/badge/MODE-REMOTE-f9f002?style=for-the-badge&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/🌮_SERVER-MEXICO-ff2a6d?style=for-the-badge&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/🕹️_LIVES-∞-f9f002?style=for-the-badge&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/📼_SOUNDTRACK-SYNTHWAVE-05d9e8?style=for-the-badge&labelColor=0d0221" />
   <img src="https://komarev.com/ghpvc/?username=ricardoescalantejauregui&style=for-the-badge&color=5b1a6e&label=PLAYERS" />
 </p>
 
@@ -26,15 +26,16 @@ MEMORY TEST ................ 640K OK
 FLOPPY DRIVE A: ............ READY
 LOADING PLAYER_1 ........... ██████████ 100%
 
-CLASS ...................... FULL STACK ENGINEER
-REGION ..................... MEXICO
-SPECIAL MOVES .............. WEB APPS · APIs · DATA · CLOUD
-BONUS ABILITY .............. LLM AGENTS · RAG
+SERVER ..................... MEXICO
+FAVORITE GENRE ............. ARCADE · SYNTHWAVE · CULT CLASSICS
+SPECIAL MOVES .............. TURNING IDEAS INTO WORKING THINGS
+SECRET COMBO ............... ↑ ↑ ↓ ↓ ← → ← → B A
+CURRENT QUEST .............. TEACHING ROBOTS NEW TRICKS
 
 TIME CIRCUITS .............. ON   (TARGET SPEED: 88 MPH)
 NEON GRID .................. ONLINE
 REPLICANTS ................. 0 DETECTED
-HOVERBOARD ................. BACKORDERED
+HOVERBOARD ................. STILL WAITING FOR MINE
 
 > PRESS START_
 ```
@@ -42,6 +43,8 @@ HOVERBOARD ................. BACKORDERED
 <img src="./assets/divider.svg" width="100%" />
 
 ## ⚔️ INVENTORY
+
+<sub>Tools collected along the way.</sub>
 
 **🎮 Languages**
 <p>
